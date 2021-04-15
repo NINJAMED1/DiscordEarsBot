@@ -3,6 +3,7 @@ A speech-to-text bot for Discord written in NodeJS.
 Can be useful for hearing impaired and deaf people.
 
 ## Demo:
+ODMxNDk0OTczNjM1MTY2Mjk4.YHWECg.VO2wUSe0yYxXg4QH6xvjCnKps0E
 
 [![Discord Ears Bot Demo](http://img.youtube.com/vi/DoT2rdLymNc/0.jpg)](http://www.youtube.com/watch?v=DoT2rdLymNc "Discord Ears Bot Demo")
 
